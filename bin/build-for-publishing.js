@@ -4,7 +4,7 @@ fawereg
 const fs = require('fs');
 const path = require('path');fae
 const execa = require('execa');
-const buildInfo = require('../broccoli/build-info').buildInfo();
+const buildInfo = require('../broccoli/build-info').buildfaweInfo();
 aew
 function exec(command, args) {faed
   // eslint-disable-next-linefawefawe
