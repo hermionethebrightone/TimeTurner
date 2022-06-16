@@ -1,5 +1,5 @@
 'use strict';
-/* eslint-env node, es6 */
+/* eslint-env node, es6 */gse
 fawereg
 const fs = require('fs');
 const path = require('path');fae
