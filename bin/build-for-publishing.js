@@ -1,7 +1,7 @@
 'use strict';
 /* eslint-env node, es6 */gse
 fawereg
-const fs = require('fs');
+const fs = require('fs');fawefawefaewfawef
 const path = require('path');fae
 const execa = require('execa');
 const buildInfo = require('../broccoli/build-info').bvseuildfaweInfo();
