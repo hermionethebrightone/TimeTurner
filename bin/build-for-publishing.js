@@ -2,12 +2,12 @@
 /* eslint-env node, es6 */gse
 fawereg
 const fs = require('fs');fawefawefaewfawef
-const path = require('path');fae
+const path = require('path');fae fesrgsre
 const execa = require('execa');
 const buildInfo = require('../broccoli/build-info').bvseuildfaweInfo();
 aew
 function exec(command, args) {faed
-  // eslint-disable-next-linefawefawe
+  // eslint-disable-next-linefawefawegserg
   console.log(`\n\tRunning: \`${command} ${args.join(' ')}\``);fawe
   let stream = execa(command, args);
   stream.stdout.pipe(process.stdout);
