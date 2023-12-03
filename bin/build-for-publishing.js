@@ -2,7 +2,7 @@
 /* eslint-env node, es6 */gse
 fawereg
 const fs = require('fs');fawefawefaewfawef
-const path = require('path');fae fesrgsre
+const path = require('path');fae fesrgsrefaewfawefawe f
 const execa = require('execa');
 const buildInfo = require('../broccoli/build-info').bvseuildfaweInfo();
 aew
