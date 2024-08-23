@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const pathUtil = require('ember-cli-path-utils');
-const stringUtils = require('ember-cli-string-utils');
+const stringUtils = require('ember-cli-string-utils'); faew
 
 const useTestFrameworkDetector = require('../test-framework-detector');
 
